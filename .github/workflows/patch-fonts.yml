@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    if: github.repository == 'lichongjia/JetBrains-Sarasa-Mono'
+    if: github.repository == 'yingpwu/JetBrains-Sarasa-Mono'
     runs-on: ubuntu-latest
     env:
       NERD_FONTS_VERSION: v2.1.0
